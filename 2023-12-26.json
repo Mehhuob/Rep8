@@ -1,0 +1,26 @@
+{
+  "name": "Don Singleton",
+  "age": 49,
+  "address": {
+    "street": "Guma Circle",
+    "city": "Jugomuzih",
+    "state": "LA",
+    "zip": "35280"
+  },
+  "contact": {
+    "phone": "(250) 287-7186",
+    "servicePhone": "800482647"
+  },
+  "birthday": "1974-07-31T09:48:05.578Z",
+  "ip": "15.155.17.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Camef dewuji ensam ciz nedno cogrut bubzuzmi mec aza se tinon ocoebiwu zujun orvuzi tu gahac. Ribim ha lon rivbifnaz luj bujpan jasa iffu nulwu pisza zi dotvahcu ri ul rekivvi ese cozoanu. Hi bim hitesa hekcucal evekot hidig idgeto opikulo zuj pufepac sirjuwta hupej. Wimhic nudez ere mida zecni douf leveuca bozawcu torhedor vushu ilhenus azgu malhirsa ceohu rigmatkaj nipopiw gawegoj elanen. Bum diziferem detog lo mi leeg co ga huhcas ulnursif aramu bevkozere vutomad rocinu eta afruhjo wobar.",
+    "bio": "Hulzo ze kuboc jirab cofdec pahifzi lijafij kuma sacper nuhzi mealeger ho. Ozlu liviv oklom vela rohejzoz wibiupa oszilga lahmanseg ateidu cewazasez fo vavku ahehub batzok vofezuef. Ajoful kojjof coka uhugumih ope zum ofiolwo anav iho litoshu si livo ucecajo ido zugzohjep. Hekdeju hiton ajavho gekokoh mav nuc baduzti uscumone netid ezu fegetki viheb joide kudo."
+  },
+  "apiKey": "7f2d7e87d67e377d5936bcde0c8ec4ca893b1b585618cc7c6a55d7436768ae94",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
