@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Moore",
+  "age": 18,
+  "address": {
+    "street": "Side Plaza",
+    "city": "Baozdub",
+    "state": "MA",
+    "zip": "43107"
+  },
+  "contact": {
+    "phone": "(342) 432-6882",
+    "servicePhone": "800827568"
+  },
+  "birthday": "1961-11-07T12:17:23.063Z",
+  "ip": "200.11.12.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Jet nores sovit ne neoz wev ufwa cuto lefsabik utuze jodu wamsohos wekzar mumewmu feducmus. Avivaeh kuj paspeub as if vifejem jinteci mag uhcihed kunobu viso fo sugu ucpiljo ajoli. Ole voheihi kepenjag dubmobdam gino cu ku mowidfod ihoem igaagimeg tad va tuda heroz je il pasa luga.",
+    "bio": "Lu cu virar jepjuw sennuwlaw paf imani lo zati kuj ar cepow ros baepa edeso ubwoppop faami. Fuza vomluf de caekha hadjele nogop va gesi rurkoas dinsekhaj tavetoj ada utokohi ali re documun. Bunamo huslit sulhih fahga zivji hezu sowvav wa wirtofaf huji retce maju watogo videge. Vev ju fibkomac us ho sa ofzas rimifnow gezfubnip ice temito erehtel uzme iwan."
+  },
+  "apiKey": "c4d7daff7fb024449029c871615571c1eed64f354b1797aba193725c5a990652",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
