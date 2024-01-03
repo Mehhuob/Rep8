@@ -1,0 +1,26 @@
+{
+  "name": "Eric Stevens",
+  "age": 43,
+  "address": {
+    "street": "Ofehus Way",
+    "city": "Hupceloc",
+    "state": "NY",
+    "zip": "86227"
+  },
+  "contact": {
+    "phone": "(512) 608-1985",
+    "servicePhone": "800787495"
+  },
+  "birthday": "2002-09-10T11:12:54.150Z",
+  "ip": "56.83.98.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Goun gooha ilzintu ohukon bu cagefa ijukom tekeret naw mite guk uzico. Rawvis vikpu na cacgac obki vafcuar nicub befuha bapep kamuznem pa ekalo idubu. Uci de anhul zaejo ha gonub ompafohe ocla ni itaziuzu ebu ocmuwu ve kohilbig wuribieg. Ojemaeb reblulah cuzsu nuco pepdalebo hisnoflo sacos tegudje mih olmec arwu kad reciep vezudof.",
+    "bio": "Davi ugcu li eru ru vipi duframtaf ep no rokge nifove nohowo uramek ore tu. Norkeoj wojziav tot puhnuwba saho be tapdi kaova rupse goezze tebeni pa iciji ip. Nazoema war eputanwaz warzuuvu upomihkes datitoj azpa pe aloor woiba muzeweme bokfu ure ak ruwajeri amu he."
+  },
+  "apiKey": "1dcfb8c0f4593009b57a5af421e25f02217bb494a65b7532aef860ab11a54cdc",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
