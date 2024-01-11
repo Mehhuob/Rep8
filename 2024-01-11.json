@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Rice",
+  "age": 65,
+  "address": {
+    "street": "Puuki Plaza",
+    "city": "Watjouwi",
+    "state": "TX",
+    "zip": "87445"
+  },
+  "contact": {
+    "phone": "(924) 254-3823",
+    "servicePhone": "800244181"
+  },
+  "birthday": "1986-04-27T10:21:07.610Z",
+  "ip": "205.77.123.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Let vemtiz pe fawgup esa somfi ruazoje uvi if urka cobil egacumcow jozuko hu coc iw cu ucij. Ba if jabpeg hubbukuh lej tu obevikwok uk leb imeci ruzetat ka bizdivcag letew loweov. Mevaheh ruk birun ohzobbe fe tufgoji ha ine guzaf udwo ejojzem hodcepese.",
+    "bio": "Kisaog wiva wetcini awihora tuvoc kuf hirnecaw mih toweh ofagu hi tiunub hocirbe regavle juh siepahed sihote. Zolvaz gupo copregu hoh lusem fitaf irpecni mu mecruc tipekef ohu wo buub sizkorag dehlo udibi vuvak. Fakbevow udono kicono ugegeki hovvocpu werid zaki lotcati to mollu vesahhig cecna luapilaj."
+  },
+  "apiKey": "bfcaa4fb45fa6a5989bd336b97ca099af3b83d1a56a9d472a637d6b76c9af674",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
