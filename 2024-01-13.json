@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Butler",
+  "age": 31,
+  "address": {
+    "street": "Jeco Court",
+    "city": "Fuvacecis",
+    "state": "VA",
+    "zip": "28478"
+  },
+  "contact": {
+    "phone": "(771) 547-2151",
+    "servicePhone": "800692629"
+  },
+  "birthday": "2004-10-11T11:13:14.468Z",
+  "ip": "62.67.137.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Sesmomage visigo riz icbehur asora buveh co gicciuw ikta sa wo nid nuumvom iranob kibi kortab. Pat vifunep hocu avhi tog utume ki ve mofsaf borugi zi be nujavgu foz son. Lopeppog to wut efavevu sum nahvu huwubbid lilioh odvenuwo ciegjeb ga fac umimah pih jizzihuv zok ebnot.",
+    "bio": "Hobpad berabkoz esuto bena howosu bodla el uwa pivege gorot zo wek. Ulisabdez puwwip ned rejruf tib basri uvepufahi muile kiwno jihdupaz pacdivu jenehsog forjog sikmik. Catabdi boztu mi pocvude wir tazif akihehnep si raihaci zivuwumin kat boknozhe ahafortod nanali bouwjov seavdel upbifhik. Nem da budtappi ruran gialibo pimaj tizobe pouda ziro coar hev tisseza rorzovo ulaloj. Jokivah wafkus fezwalcun ma nuw duv kiocuc ezeewovak neewo to lar suhicuz aj raztumpu ufeco si. Di ju ono rozepdom hazugho fi fawobe echo woc omi vibjak wumla."
+  },
+  "apiKey": "20a2f750a412671829de6eaf6dbf06b2fbe2c80fa152a6b2e2a8a4bc62be16d4",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
