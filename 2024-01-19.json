@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Silva",
+  "age": 25,
+  "address": {
+    "street": "Lozu Path",
+    "city": "Bakimapis",
+    "state": "TX",
+    "zip": "45165"
+  },
+  "contact": {
+    "phone": "(940) 936-6157",
+    "servicePhone": "800512342"
+  },
+  "birthday": "1991-07-23T07:28:45.359Z",
+  "ip": "142.223.191.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Uji jefal vo fatoof simeddo jecwodah negedo locwe ikre kulnef uwipet nuf enelassur ahufamira jiv lojkadwe. Gevi gekof kozuvti tumoz fejpe lemji polfat cosse ufekotin op weki fu odfiwra buzfehmi ejinapzi vo. Gugokow rano moniwog ek cuosi hot culnarkiz owuoh pejuva uteocwi dulublil ajapacjud ucpag sooc. Hajmiha bikitap leov fi uvael gutipok zo teti ra mijik ukumos wab tipi atije wi mitti bozfovesi cuid.",
+    "bio": "Keg ko ej lojmijud cigdu wihiraz tebiju tuawi vap bezwid seciwavol viwotvu po orma. Owi er po unho regafhic ce kavjof rebokip vaofuka oka ziplu ma. Tomzucol re med nuljuki lo tavkoz japefri ufije ij ogo ku rac isuw citgujo wovov ged. Onajan vajwawemo jimlu sebehzu waheog eluhiihi las fez ikkufup finipmu foh ec mokucsa hob zijko dueja. Wabenal lajkakin noholuv pe izu haragzo douw rovbazba zikbiz ocgid gafoim gikim za."
+  },
+  "apiKey": "3cc84caac2ecdc09316bafe3aa9d897ebcc16313d1897d1a4b712a8243ca4ef4",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
