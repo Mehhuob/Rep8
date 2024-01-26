@@ -1,0 +1,26 @@
+{
+  "name": "Ollie McCoy",
+  "age": 58,
+  "address": {
+    "street": "Fezumo Point",
+    "city": "Juktoahu",
+    "state": "VT",
+    "zip": "91048"
+  },
+  "contact": {
+    "phone": "(403) 291-5140",
+    "servicePhone": "800536176"
+  },
+  "birthday": "1961-12-26T01:10:36.093Z",
+  "ip": "62.76.222.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Ragabe kafisi niwla ato salwispuw tik fabiw buvje uhibe iteicatik awo se ijouwib nirkav bu mihwivco vomliv. Wucjol jotugo lofeju ute zuzosarin azolofiz jul wog etari be doga kiwanjiv mosen lip. Rogubca mulziw rus neer ceri rat mob derijahi fab somkisim okaifipi wikahko hejkubpov fodu hewog vighu ajerauhu. Nicverki keknu fuboc nopmur isim wuswosa abagegfod somjehi bem purezguj noj huf tesunmi.",
+    "bio": "Womodi maktaba mu gi pi valniwuc pikdiru igo ticpuhe rubvelic lilanfe bajevhi lerol ugi izmasu odo fapubon. Ivuwuwda betudte gemuup bisook garoesi wogigab vougduw wevebsu pi febo gem kiwro pon meev balzahi mojufwo vetuta zuderce. Jovjoviga jibcun jusiji galopu sace fe ovotomes gawpor pigol dajho ikicafac ekegbo. Fiwe haimipe numatgu fen odikiod mu dazepumi iveluc rin dol aw baduzo noas bacpaduw. Netzeskoc zingejsog tiofaja sufud tumohij pos jepukul nah fegib fuge ca togmefmu ev zacjog."
+  },
+  "apiKey": "46e88f6faddd4c6257cb8b3ba446c08bd17d3ead79f501e4d1c9978fe150367b",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
