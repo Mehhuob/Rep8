@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Greer",
+  "age": 22,
+  "address": {
+    "street": "Imnog Park",
+    "city": "Vizurcan",
+    "state": "OK",
+    "zip": "11516"
+  },
+  "contact": {
+    "phone": "(257) 406-4905",
+    "servicePhone": "800145116"
+  },
+  "birthday": "1974-08-31T12:30:33.519Z",
+  "ip": "74.131.103.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Inunesgo il dajsuaje oz osijon ki loejili fez fococ diicudav odhutpez gacej awiobrep cub duahaez labkum harebuzu verapina. Coguz zoduphe milhite bebisok osukon taejtik tijoji caug wejewum ipa vu hedikag feflodted ha rusoveb. Wudima etpiago mo ulu puwimo avic jace uzisiw aru sidac ce faav falawos utgoar gepriwmo. Kezitudo si ci figune ceg po miuzreb ipsiwu gahkiw punek iwepi uf efakoab. Zaucetec genpoh zifse useeniem wohef hulok leajsip edvegfam il panovif bawro hej goseoz jude iza. Mafi dubil tosujpe ibro liuchug mibapzab ekju lezek alamu ma vusvavo fa. Ciorofu jocro balnutko kofmokfa ehaomho asifo ladomac wot kima nuje cako vadikup.",
+    "bio": "Pabed pupdaj lihti jimekwa gokop en mub fokef kavvepe jetiho ro izrenov mob vizibcil zadur. Ohe weloznel vurif ca hu og nasnotoba gip pebothe tabe hendu inasavevu uvuke efvol cojgafur gec. Goktob tecuw vihrazti nupu dookzuz topu urri du zo carler po sipnivjov esoohu tuse oni di. Hofu doet casciz wadac hup so rephuh eciave aki zuj joani abere nupgunaw kipbassam cuz howuwi. Nopwatfuk zufuvos motat kumev sen hi is ga kunhertik tordur heba hir etetefmep zowvojo tetmezilo roce vaza."
+  },
+  "apiKey": "105a590fdb89efd2d3f76c1a75fd577d04344463dafb30cd85d06f1f594f0a53",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
