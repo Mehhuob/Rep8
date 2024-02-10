@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Evans",
+  "age": 48,
+  "address": {
+    "street": "Jinpam Place",
+    "city": "Wizkioma",
+    "state": "OR",
+    "zip": "01923"
+  },
+  "contact": {
+    "phone": "(565) 805-1565",
+    "servicePhone": "800225478"
+  },
+  "birthday": "1997-02-01T12:41:18.406Z",
+  "ip": "9.165.186.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaj pehenuaz kazap bazeg ah pipasa unaz oregu danetec kiunobi lofwuki cusjahmu doj caohre. If ne pi dahasat lahinave egiwacuw rotimil safone woz nuntouve gegser umhevumu gu wo laaw. Ve uga tef dehe dikuzamu fupsaz morkewso nig kul da ka tetu ekide libne todov.",
+    "bio": "Fasziru iw garbekug rag cusuv lukolego osivuag lut huloura omo ufdi unekig ulfo lihum. Tawti bi wom ram gowewre teh seiji mabaginu dahege nifrok raprif jehip juz dod histi matcum. Nef ovkobace wuec tegaoli gom dudrit vijnohsa iperat tebhejep ve ceb gij. Bezhe zug viosomik virojap ruw ce bi ufesomo nehosepo isi sa zousu miwbofu utpuste uc amoazian. Echiccid vobuna kilu covizun wejgokwo hula etetamec lafe ciravufa wutahos row ebe jivunlot."
+  },
+  "apiKey": "5f03883d9819d173495341cf33d1233b16ed913f31d4c9b914720851853b167b",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
