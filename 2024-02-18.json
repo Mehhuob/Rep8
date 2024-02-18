@@ -1,0 +1,26 @@
+{
+  "name": "Victor Jensen",
+  "age": 47,
+  "address": {
+    "street": "Sikde Avenue",
+    "city": "Rehtiki",
+    "state": "NV",
+    "zip": "10978"
+  },
+  "contact": {
+    "phone": "(449) 355-5867",
+    "servicePhone": "800537398"
+  },
+  "birthday": "1991-12-02T08:48:11.923Z",
+  "ip": "215.37.252.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Tucjem noimhab wes ot sapesis sonje patatutu aberufi loalpo sigo wer fittu. Tutder jukded lerzig ru gethud vu gumer ves pa hinepeos tuop lurjoc dipdemed sazimjuv bu uke. Ugu behep su ka vu nogwunse rera doabimo odigeb zinkebjel ze ih wek ok gun tuz liwgol.",
+    "bio": "Bov zoaveev mavvaca cazejfam seg jidikum uc dit atekog japezo zuz ej morifuj gissu. Ba dicsewbos ilu somgo tezmo nogi fa zekgowko vewu kukcog pogdovwa giwa sijwikrof. Wa fesbuto homzo pod bo baep laho oc zo du kesafezu zuzpuwtem. Goutefil mu bol jacweh koptati ju or kohnu tig lujfiv wa jicuz. Ijsuc ridsa aku ne nukohsid taviab ate was te paluz jiiki corlon."
+  },
+  "apiKey": "92965eee0554e773d6c7cee9c695c551123a4c74e69f75b0e746d08ecdc59d18",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
