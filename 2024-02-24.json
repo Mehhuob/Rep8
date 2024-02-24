@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Page",
+  "age": 22,
+  "address": {
+    "street": "Jeru Circle",
+    "city": "Siisrad",
+    "state": "NE",
+    "zip": "54113"
+  },
+  "contact": {
+    "phone": "(323) 862-3232",
+    "servicePhone": "800817977"
+  },
+  "birthday": "1970-12-03T02:22:01.226Z",
+  "ip": "240.5.26.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Isahinen evofiwjel upokiwim gu pat seka wopjen ontu asipug gumjo sedcijove wogjo seaw. Pu tofilvo howan ehvaore jewowuve cooze rajow alijertu pu niko inamoka retcisku guov kihec niipi omu ari avjo. Ila kalevim seap gajo kero laopub hu oze veribab vuhuzni picoztub rivomade ehizatjo lawuru. Ucnelu rim ji fu okadas tow buzagu gac pocik aguhes mettepjen onobol fodgibi.",
+    "bio": "Jef fonorvih suk ne wolwew lauhibe denrira tur asuvime jorcop vak tipto. Behiwcuz sabraz zohamdi vurko gi seb kijis ko boano tab bortisze omukujle vasirsas. Ota cathadiwa sakdaaf pucirhe sungiboc ote rur bu muoze tofago lor un."
+  },
+  "apiKey": "edde7b6bbb7473c26a694d3d36eba4a2d07d9341200b457d9d7c5fc41c4804bb",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
