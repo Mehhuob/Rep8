@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Howell",
+  "age": 63,
+  "address": {
+    "street": "Huti Trail",
+    "city": "Tolpewfi",
+    "state": "ME",
+    "zip": "18577"
+  },
+  "contact": {
+    "phone": "(538) 324-5151",
+    "servicePhone": "800188348"
+  },
+  "birthday": "1971-02-03T04:55:03.060Z",
+  "ip": "110.63.111.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Vikol cil but ramjoim buzuhi celfozkil do vem so sabid epoihri bafus diwusbu ramzekhu bebe bucsik su. Imako ze kikardu ilmip mah uksicij ko tupnilim nav gij dibi mefke isihje mol. Ifdi ihjupe pewjem lec matjum ijoicew domse ufkolig jaz ole loizki kiik.",
+    "bio": "Ze hetce ekvu labwij pu gelfuil womefa dagewu detoj ma hev kakcupi ju tede wurwinwun zof. Gop hejwuno ed mi wa gufceuvo cumtuim jacoha na nu wipha vavebor wihzege zocu. Gabamisez web jewewi obepalvus sa omjuh amzuv facgoj sumvospuf paaji abocov hundo fafu solaftib huhke ga cojaf."
+  },
+  "apiKey": "606b67b34f8ffe56ece230ccbbb07c98b6bbda204a258c02475796f5cbdb09d3",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
