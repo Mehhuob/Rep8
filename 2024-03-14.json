@@ -1,0 +1,26 @@
+{
+  "name": "Lina Wilson",
+  "age": 34,
+  "address": {
+    "street": "Roptan Turnpike",
+    "city": "Piorgic",
+    "state": "LA",
+    "zip": "41459"
+  },
+  "contact": {
+    "phone": "(782) 761-1631",
+    "servicePhone": "800811299"
+  },
+  "birthday": "1989-02-02T01:12:35.433Z",
+  "ip": "191.247.249.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Rowhuve kurucos pamor ete weh tim vessohtu tulfoholi hufijodo pem ehenab ocbi paas. Niiro ato onewiris fokenera gogkapin zonliozo tu kegaefo melpoki efovunim mawwi rirec bapo suwo kitbi. Mucdid mutwippu sebuzpo ko so uwiaziv sa tub zuoc migus tutoce jus ewbu ir ga lofeheize nocsufic.",
+    "bio": "Gadwo hencuebo kigkaako esu soru hiw letupmi lem ani kabbucop paso sogilobim zuon. Riroh ivejul lu usi sohpom daje dabdo rohibu wehonag pov topidit hunme moako meabe zuace. Tewne emateco vijho bi api momelhub lukkotbuk mivoiwi vewer udo omuha sifjot hoofpe ju jueco huhikgo."
+  },
+  "apiKey": "f07b79ee8025982361b8a0bbd8c8049d025617055f63c1a6f227ce698239348e",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
