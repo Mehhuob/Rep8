@@ -1,0 +1,26 @@
+{
+  "name": "Fred Frazier",
+  "age": 33,
+  "address": {
+    "street": "Teboli Grove",
+    "city": "Erejeri",
+    "state": "CT",
+    "zip": "24615"
+  },
+  "contact": {
+    "phone": "(926) 667-2730",
+    "servicePhone": "800125985"
+  },
+  "birthday": "1969-05-22T04:28:42.346Z",
+  "ip": "33.214.248.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Wudbeclav nu sotroheb si fozapufo bab cano vibekdo ri odehivep ru macle tu mu gowangiv vel su. Cit tek jon sogehe imanihog wu bo apnom vu guluwjav po riluk zolon duvo zik davipeni giw ope. Liveh ejulalve sin woj pocivhi ja jaf zohjigle cowho lucnic not otjowroh fu ruunev lacomij hu alusola dav. Borlenru sop gag viwgueti zewemiw tabrumowa na lidaja jegbecip dojeszin de civfu. Mig ma vigelja af gov liefi udajo lep werojaila sefen boj tahzas bir wofviera fe gutdoh bueh kehofi.",
+    "bio": "Tu vucnu za tebiz kuzogfol ki la fovev jew cu ca mainpas robehi delamwa. Oke cujuwimi les dej lavab si eg nutesrem oricive haopeze siffawre fe. Lo wu da zomo upjare bod sa ge nac dezvu rij va kuwo jackuhsap suca."
+  },
+  "apiKey": "a6d5345f3e6f579c951e7facb384960e48d2ebf99477673610688c74f6734a8b",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
