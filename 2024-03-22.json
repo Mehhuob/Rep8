@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Barnes",
+  "age": 19,
+  "address": {
+    "street": "Mazor Loop",
+    "city": "Mascive",
+    "state": "OK",
+    "zip": "59049"
+  },
+  "contact": {
+    "phone": "(405) 923-4169",
+    "servicePhone": "800769847"
+  },
+  "birthday": "2003-05-04T02:54:16.047Z",
+  "ip": "26.119.169.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Jijezowup ulwa giril pehjuope bigwo ti uhaleos coiz romokta cudgup so ajko. Ulasaam aj zen kebdan ezrihehu uf gueg danimho umjo wijot bem ili lowo ov. Cir zun gabuvmob gepkog ho liwag cisekho bopugon pe ruc oh ki ve omo lu. Zaplineda loalukil pu tirowhut justi zaf wimuh ankejre ru zevako igeurafo kisfo. Ucjibti vi foowi irobifih egu lafo bufzewvac iheubo netgemdah sojefo hum odu apo kecof sozuratu su lawu. Wufwe ef foati lowna cam wictev guzraccor rib hiseruete abe ic vi we ga ul esoosje da. Oz jiohujo lijmi topebos ogawanvir larsemba lukame soca cebitbaz opojap nof ozbize fe tazbokaj zi divwim.",
+    "bio": "Macureh mih turad wuic ag paza efduwu racoseos si sew uc alfikfih cibudwuc awonap luc oce. Kalod bakallog neer kad serkespa pitbando raw von sohe buwbojpah iniddor oje. Cuc ze decwemo baj reewa ha mibte kecvuwfi vohcuzi bouv dip be wowofi ekezaga wif ogo uz cubasa. Li bunadga sawo si ce libajuto mulaw kakip babvum kiswolwu bu voswoder vukete nidogi avceje. Gemoop kompubez wi dolo unle elrol narwozhum odroec gimipeog ewokido gubufazo cedah be cemalcaf. Lusa mehsa go il le ipukjen pesveled wapo vihmumbij cajlo kogje mi kiwik iv tof viftu."
+  },
+  "apiKey": "9e3bd6d4420d9f9efa7c8dcb19516a800144d86677b5e75d183fb25dd744710c",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
