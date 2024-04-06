@@ -1,0 +1,26 @@
+{
+  "name": "Steven Potter",
+  "age": 28,
+  "address": {
+    "street": "Cazleb Path",
+    "city": "Mazazkud",
+    "state": "MI",
+    "zip": "24563"
+  },
+  "contact": {
+    "phone": "(967) 978-6625",
+    "servicePhone": "800968941"
+  },
+  "birthday": "1980-10-12T08:31:57.968Z",
+  "ip": "115.125.252.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Tufog sakheg fu waz hif alu vohewpud iwuvez vembunhuk jathifeh koc bu kolce riradazem fiaho muti. Amfel afwa enciwo napoana wi vot gud efwad zetgedo uhanodihu lur furu zapef valzigij vaw ca. Ezvo lih po hovusofew omeer raw aksov gub hum opi werad ib. Cibvaos ijufuzal vibdaafu roihbep akesida fobvosdoj gip owodufid miditug sib gigto ci waolhi vaumu cuvnuwwe.",
+    "bio": "Ep jecasa cakjel hiivu aj ferizna go rejico kaevci hig ne totwimce. Fobof bibsu lori gilpig wevowo somdufib mikatna ijkaco ku guigo iliine sel ujufohda mijze le oza usa. Obtohiz memgose sevu siidifo mahecvac keeba puifireg nuwokse rituwpah tewiac hi juwote fipit. Tik ha kelwoh cubwiweg suzhor mervuki vihhi osofikgi ihwesdom ji lu jovrof neenozaz. Tu ja vu lugoh umi ojabep li nazoco ki abeukjef mu ugi ikiadcu isro ra efusew supi cif. Bunzu fazu ojoah wuv fa lowzeni bimih inefo kuhoju uno cikbep se."
+  },
+  "apiKey": "5141bce4b72f4a470c09c87f45f7cdd24679c471e4c87cd011991159a8d67385",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
