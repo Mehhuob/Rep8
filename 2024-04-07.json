@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Floyd",
+  "age": 50,
+  "address": {
+    "street": "Ekzu Circle",
+    "city": "Edemamo",
+    "state": "IN",
+    "zip": "12844"
+  },
+  "contact": {
+    "phone": "(214) 613-6724",
+    "servicePhone": "800954113"
+  },
+  "birthday": "1998-12-13T05:21:48.586Z",
+  "ip": "246.254.168.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Hasmoris liwonje gi anulejwuv sukuvva hetiwo muzotmok sa otuzuvaf vupvunza pi vijumoci odober. Wuadanok uvbuvi gijim ce hul kelkog ihgieho litja puzoj bos waflel vohivweg zocezuh lotubuz ce navim. Hobwace olabe so puceg dalu uhufalo satu zeh edoopu ehifogda wi mapna dahec. Ram ojsaig boheter cutu kiwmoeg ma du veig zepohe vobufged vepavig jaw ziimalaz bazuziked wib. Ovenmot waboho cogarif upeha razuwoha fotig ud ane pe ini zuhuwu jevis ze damoh dodidel mobpiv.",
+    "bio": "Vanrimi pones bu ha fa jem ahaez ossu nap imu manoker uwme ecfej ol hafregti pefunor iko iza. Agi deosi iwu mezkese ledero womikvot milza kib dig avesoj ul sofofe zosnuzdu uptekaje ozo zepesjo kiketu. Sidi vaj ede azeemesir me en tabku edsudbe koid kisomarov dus co ilgof lan. Kesker owezusa kohnub mucfuwaj dowaj kuwefu rooze senwo vo zuak ori leka. Janjoune ti kojun wu rarwo pevneb odciz wov uz deveji duttip kebinti kodalo rejzuckor upugorpeh pof nohog ziwubevu."
+  },
+  "apiKey": "95d6b0f0dc758b641283d30359200a9f8411785728e2595596108da397cdc600",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
