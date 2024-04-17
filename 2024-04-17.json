@@ -1,0 +1,26 @@
+{
+  "name": "Stella Thompson",
+  "age": 37,
+  "address": {
+    "street": "Tapme Road",
+    "city": "Fivoiw",
+    "state": "AR",
+    "zip": "65519"
+  },
+  "contact": {
+    "phone": "(775) 272-7088",
+    "servicePhone": "800137216"
+  },
+  "birthday": "1979-12-19T04:14:06.093Z",
+  "ip": "184.65.230.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Favok ow geofalar zerew vokgutsu baewi ma on almape folmava os zehcoz soho bikrul la geon. Fugo fes emsohe fu tahic fikninev subupkug eba tutku ho bag mamitzof tijra. Soceb na nowte dek ugsi mac cacwoul gosulo jevrav opa banejo sa.",
+    "bio": "Jaf ewpo tuc tu aja ve suze lujuk li uk cujticzuj iluutanos ovi mijehih binuvdu ciisupu. Moug ticoodi uligohuz rienuemu gadzo cogis egreme mefozlup hamimi dunaz zop rupasmo itcig goko kevjul mi. Etosa kodahi godrizsow kida dilet dawewvof owobutne paohwo zo rit abpesod rugasre nol ok rub juhkeve bimebaba. Enocu kucakhap ro wojhup agip igagot zodo vavho jef tod ce enilais ruduzi favsevin aju pojpecnof."
+  },
+  "apiKey": "84db37d2c31377017706f614967ea705dd64af3cbe1f4ae4f7a77eb6e0144fa1",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
