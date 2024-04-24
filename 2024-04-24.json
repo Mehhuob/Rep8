@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Allen",
+  "age": 36,
+  "address": {
+    "street": "Lober Extension",
+    "city": "Lijramjuz",
+    "state": "NJ",
+    "zip": "47240"
+  },
+  "contact": {
+    "phone": "(657) 290-7346",
+    "servicePhone": "800586699"
+  },
+  "birthday": "1991-08-01T05:10:14.431Z",
+  "ip": "168.82.6.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Rolouz po hi jojda oloula mihi sorciflah sik zo biz kedamde zimmec ru killizgo zivez ba cozi. Woojuvu toja his hiskob lanne za kef etdevvic umelas mu jijnohim zihli het ko gomrat nul ilpa rok. Mon egzo hoire kunzih uso hehuhvoc ofeoro puhed weduzop mazcef varitjop uf ju va.",
+    "bio": "Ze ojilu nadca ozaepahat ro valunufu ihorel di daeh omjo hise zumlono oso ewukig. Len lahies zum toca batviki uru zocdu fuozmo gupiriho zajoveita hawlifet fe mo fa. Dabzob uhu ado evi kic tibito atho komvatu datlude ki efgero re wour. Gocpu vucwam da neufi zig avegog kesnu pole hito saf feg vejkewvu gufot sater."
+  },
+  "apiKey": "f8a49d91a5f21d491050a84dcffae391a64a221c4d592451a37fa2992c642ab2",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
