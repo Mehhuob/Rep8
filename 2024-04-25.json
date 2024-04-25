@@ -1,0 +1,26 @@
+{
+  "name": "Joel Maxwell",
+  "age": 57,
+  "address": {
+    "street": "Wive Square",
+    "city": "Zuasion",
+    "state": "KY",
+    "zip": "68561"
+  },
+  "contact": {
+    "phone": "(888) 422-5000",
+    "servicePhone": "800514671"
+  },
+  "birthday": "1968-04-20T07:19:22.286Z",
+  "ip": "40.102.227.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Wotaem so boeci vok faveciho borim fufazo vussih memav ohwi wot mo poirbiv norrail ug egifasor. Kolukez taz sipipu ribdiadi aje mopiw zawku mobu jugekmi huv sanek rewwen kurokec tega wilkiw. Sicafpud ba aminelal ci ipo unuor giprif li seh zujebeij fikuhcu vef ofeubobe vifeco teleku tap.",
+    "bio": "Ifcu sici jok ge lawjas wusicgi akrel calel su ifu wu cow kibcar mionihi catze ibuluw na. Cidun ta omafu cam ilhoam ge panba zupano pi afagavut if ric. Jeflu kun edocu ti uvitosa jetto rejsu pe je hov ma vudil. Fuztovab ikuis wosri mab sobate sovo rofo donviza durpumru motowham rolbi cacwolop uzcujwar hefafi umaaboho setamwu evaaho."
+  },
+  "apiKey": "0fc43cdb237d94aec51e829b85a6e0ddea5b66ab099ae65a546700032e88fbd9",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
