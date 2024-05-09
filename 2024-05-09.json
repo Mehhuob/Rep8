@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Ward",
+  "age": 28,
+  "address": {
+    "street": "Laldi Drive",
+    "city": "Lufooba",
+    "state": "RI",
+    "zip": "21423"
+  },
+  "contact": {
+    "phone": "(236) 205-8327",
+    "servicePhone": "800323833"
+  },
+  "birthday": "1997-04-06T11:53:09.739Z",
+  "ip": "172.46.169.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Gamral sajhalwus vevihsoc ho noftezde gatru cefawa owuwevut udaeti beddari pa guge zonavkub. Miwibag secbah uji tahi ju du go op pitvogov po defjibu kezubiv rif. Uzi hienuwo de tiwis humhub vesbetar mo fumdih rujfov golelozat ideiveofu saw wopfumkal gep ku tuccosa ha.",
+    "bio": "Es pewhuf utipeseb uzdis toino enu bana kazvi atcilan janhebu ki vo sa jummepweh. Ig acuber razvu fid jutvub tezmacuh umpuj riugobub ma fito vattifuz funinemo ni. Pobat bijouzo wehibpit wepnaeg sucu ewa lur onebiake gewaliju jedogrod dufitmok onoibzop obgi nitiv uhabge apohop vu kashuksut."
+  },
+  "apiKey": "b6d527ff1191143f4062a5039052ac2cd1d585e667607959d81be7994e49bf54",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
