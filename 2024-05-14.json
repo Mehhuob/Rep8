@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Pena",
+  "age": 23,
+  "address": {
+    "street": "Tamil Point",
+    "city": "Kumemwe",
+    "state": "MD",
+    "zip": "34154"
+  },
+  "contact": {
+    "phone": "(280) 601-6536",
+    "servicePhone": "800313298"
+  },
+  "birthday": "2006-08-03T06:13:29.578Z",
+  "ip": "122.143.101.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Rageh gehac tavidi uz gus bu tailu eperu nemzu zemnot tezuvgif tescam. Bu en hecta pe dozhah vuki asli si digek zebir pol jatew bik nic. Lag gero tudzipur howlod nojo toso ri ruw nir uzabi pusdug avica erpezu hebamo rawcu. Fumvafnid hog camudbo zab gi ekwo cipdes zo zuajba siru maldovik seeg hip ideni rocanas.",
+    "bio": "Apo nusaho um lefem elezuni vosovkon oc atbogogi waz rolpak uzwakiw nefukjip. Zubgit heal fonu buj gi vetpi vufrurtow wakadte uherowa rez kirafsas ze uhpive coohavi. Ju neputec veviv adjus reh kic ekreha lil fo zuoc amuugjah wekizma obo riwzem piba ove."
+  },
+  "apiKey": "84dbb62370236cd3a76058683e7d67b5d0bcace40176e920a7f9c6184c9f3c69",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
