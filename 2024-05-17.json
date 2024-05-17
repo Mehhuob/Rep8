@@ -1,0 +1,26 @@
+{
+  "name": "Sally Hamilton",
+  "age": 52,
+  "address": {
+    "street": "Agaga Junction",
+    "city": "Akeiretez",
+    "state": "TN",
+    "zip": "69756"
+  },
+  "contact": {
+    "phone": "(618) 346-1751",
+    "servicePhone": "800779485"
+  },
+  "birthday": "1987-04-24T08:27:12.494Z",
+  "ip": "59.124.147.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Cukewejoz sa lauc pivpaik fu ujafaf luvep cise mopogug velufa eb og femrejen iluelugep tab ca nufuzhez. Je supuja ca vijadzet ami udbok minula rafe nebo wejuk ireje lajli vaiz rod wisep pegdebi lovuk giovga. Pamem di cugu pod lu urasel sob zufsuv joore zaed tiame he imimub lomaziw wecuc cilog nokcal.",
+    "bio": "Sewa moora kufof ifajuhaf cadogfi wi dedhov zajoucu ne nebpelom tifdavsuk bug nisuko vir vevuksu. Deva mubfucmuw nanbujep nebefar ez esowunbi ju vikladtul piru nobgu uw husap da. Koge wuwimoc jomuje taf ri okijuroh tucba ukojimneg veksarufo ru vu mumalobel jundekor."
+  },
+  "apiKey": "1a921c66178d34b85662cee98bfe07c79aecb2cee74cad45e633a00b2a936da7",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
