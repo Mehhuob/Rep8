@@ -1,0 +1,26 @@
+{
+  "name": "John Hodges",
+  "age": 44,
+  "address": {
+    "street": "Kaztat Square",
+    "city": "Otawpe",
+    "state": "GA",
+    "zip": "40081"
+  },
+  "contact": {
+    "phone": "(260) 848-5222",
+    "servicePhone": "800494222"
+  },
+  "birthday": "1964-06-20T02:29:28.256Z",
+  "ip": "225.168.19.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Macuro paohu muwismaz edonit saf an ev sobogze nehpim rogrod acibadju hidzu cokope arip abe zu. Bimuof ciz fugju vucesi ze ebve si cecel lo asvapo fij hav. Sikcaz dubefetu humeson jinmotgat fuc fawfilfab po za kijfentul ji mef lope we. Tud me haw juwupaf ved wosifeke ofaculnih noc am juhca kugsuho wiba kif od ahasika jisu kap zeloefa. Ro afazos sureja fudgo wifzu vo vumevne zer ongovda votmak vebkes bodowak ojabake.",
+    "bio": "Maet lo ve magcugfud somenibo cad awanupis kitka valcila etzovub fu bu ace guejejib raro losfaf udkoso. Uhedi wa av zolcu vamip la kam dudnirol zabesa ci tampekfe lehtome vob ni temzev. Huzsolmit huvfap hif apavraj kevu daktu no lillorsaf uwuhe hoz pimhub sarmihi cir mit pogbi likdelgob. Dijoh lomarew lukrup hujuh bepab tilov nubozhah wu ti zaw ih ro waduvi bejviv joj. Ur raefuin avruwepi fo asuuc gupe api fo aco gowsad ha juttojav sigfo godnih umu."
+  },
+  "apiKey": "9400dd735f30f7307956003d1493947447a0f4fe817af3089e58d6743405cc58",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
