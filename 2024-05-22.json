@@ -1,0 +1,26 @@
+{
+  "name": "Brett Frank",
+  "age": 26,
+  "address": {
+    "street": "Cubzal Path",
+    "city": "Ihapuca",
+    "state": "ND",
+    "zip": "10521"
+  },
+  "contact": {
+    "phone": "(953) 845-8170",
+    "servicePhone": "800591862"
+  },
+  "birthday": "1991-03-13T10:49:54.677Z",
+  "ip": "122.40.88.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Hazhizvu rajeuki wi herwujza uw jejoan hu pim ba umi geh penkatic vabca pojjoba hemubhip. Okodipil ila ubdikej wim ope ze jusaw toefu zaf raras vubwab gewnu azro ehaez kilusgo dipo. Lodehlah canis sot toz vugjic aheum tok fow etka zofolit wuvocir to hehugti gow zusbi ujure. Mito ato fir dif fa gi ficnezki de lekmirij luf puliztu hesu jit.",
+    "bio": "Col ireis cojjunoh gu lusof ki miz cimabaj zatura uzufak za bifcemuca lu dijwebva cofhob. Bu ul lavi vaot culevtow uwzusef cubpiv poludib cogbuvo kef hisrid va. Hutod ma ecatoh tikcifrom fo babod mamrag eropej ijemwuw fe kasu reppev adhickid tiit epgejom luz da fehas. Lagesih kumug modciz epofoggeh hor dihpe pizow bepidik baacuab muc huw giluf povahdi to ziut. Git katoror gizodafe oho ijemo ewarok firosil cuvazvab bazapmo of gotu mel azzake wep. Direcde zetfuf bo jilojo cominama sijhitmu gi pobvowki mi wahnuz do wahcur bojusu japtel utali zog leb. Gi jekecuzi lote jokjo gaigumac evnir izomitim nef vatkieh bonul tigezo hobiba vaos oj fiil."
+  },
+  "apiKey": "c99d82460a2d0e40899e08ca80312b8838edc5aab9152c94a93c27c028171c7e",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
