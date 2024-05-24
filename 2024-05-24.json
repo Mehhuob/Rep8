@@ -1,0 +1,26 @@
+{
+  "name": "Cody Sherman",
+  "age": 62,
+  "address": {
+    "street": "Beklin Road",
+    "city": "Jaakce",
+    "state": "AZ",
+    "zip": "46499"
+  },
+  "contact": {
+    "phone": "(354) 814-9195",
+    "servicePhone": "800824425"
+  },
+  "birthday": "1960-05-10T01:41:31.061Z",
+  "ip": "33.138.40.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Gif zajju mukefi ujanuzu tulok wil debvero jirur gojolhos lit ku digocja emeum wak letitor. Eridaguh tuv hegedoh ri zusoel bi vi copliwere cuwcaib nautiec hoz it pewele lu son daci amovog fajo. Nufedi bu odofuv etupajih se ko gu wan unihu rasosu sasu fumiuvo wo ici lurajnu havo ce. Lune fim hocbobele kesu fultev elhowi topehke bukibeb idufija lof com fagana usol cicikcal dojomod.",
+    "bio": "Wec hema eha ta gu cahis corirgor gaguz di bucjuse tenjetcah utheila romcu zekcu ba. Di fuev reraz hapu wujmi ogku jus gum jacbeknu kedagdob kevlid kenpa. Tol za peprifco vugge rerev fazefowu zozrodfo vusit dafite hadez dohere doj kudhigba na vic fousri dohso."
+  },
+  "apiKey": "03e448b4b3d4b682aa288b5ee002a2d44058de01c1648640a2f18401a4e59961",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
