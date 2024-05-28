@@ -1,0 +1,26 @@
+{
+  "name": "Mason Sims",
+  "age": 37,
+  "address": {
+    "street": "Vojvo Terrace",
+    "city": "Sulvatoda",
+    "state": "NC",
+    "zip": "73048"
+  },
+  "contact": {
+    "phone": "(701) 606-4776",
+    "servicePhone": "800456523"
+  },
+  "birthday": "1965-06-07T08:02:19.516Z",
+  "ip": "145.95.61.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaati lip fohanoj ati cu iwtuhog jimkowos wud egu jiri oldirze busaz va. Se tafi op vaemriv uka rum vip moc log ji kurelan fo. Kulgip ohuigijeg olpani birpu empaf tojajuesu weruh zejhogun va giohcev tunediaga ki joir.",
+    "bio": "Op tov upu soegpih lor zupew por omdowrol no mopmo hah lazkeapi ca. Ut amo newmuv siomi fispusju vez toev neulohe po tehetco kef fada ehi he obolibi kir he bi. Educoaki opa caccu ror uderu war ete fap juskumta ta pejhir owena acuufuku un vefuduk mekihor. Cegluun ofe zem dibadakaw lofaod nugvigok pidi toce lap pova jogad vishim tazrenar mokkip hoiweto za par."
+  },
+  "apiKey": "3dee8ff4f087d2d442914703ee88467c65a8efa3c7a5833fc939a5c2bb937a14",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
