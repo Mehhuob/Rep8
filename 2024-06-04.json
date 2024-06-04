@@ -1,0 +1,26 @@
+{
+  "name": "Sean Reynolds",
+  "age": 21,
+  "address": {
+    "street": "Vegla Boulevard",
+    "city": "Esifiva",
+    "state": "TX",
+    "zip": "42626"
+  },
+  "contact": {
+    "phone": "(661) 523-4959",
+    "servicePhone": "800474686"
+  },
+  "birthday": "1977-07-28T04:18:56.834Z",
+  "ip": "39.19.168.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Epvaz jatifsez feomu hu deh vogjunit ve ububih rafawo cimgas negeg ji. Jet mokiod mohluzpo ammedmo ajmeskif honem asatem safima idafo ub lulnaelu koofu becjofjaj rujtopej sazen. Te liebir vewu poda gu udi bief bafugma dipwacev huc enhinel fojumre isivatuz jomso ughu.",
+    "bio": "Me vun oloheb miftew inejanes uj rijhe alezur puf sifciil ido leuha ikonu. Haflo pon juda racse ari gu bomin gienunil kunos javeg wonuzge ciljaucu dasgicmav vefog ite dusabrus. Uv lajeapo arauk ilizuru won moc sorozku kahmu hu hu bumahon pubwaru. Ca ofoko haol enwebic suw oc wiefa wi ero masavib fegoga fa. Tawadbe zabuhe caagnev co huhzuz gi itanobes pilmi ezu mum fepebonif gejporewu duem bi cubu wu ojzez cowgi. Igiega gedme va engij ucefazme juswun ciw ipuho bapzimraj okadisisu ircipime nikuse caj jisaweto."
+  },
+  "apiKey": "558d324876c252763b56fd4cf3965d65a8cb0178e62d8c31e761f11c2d88ca2b",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
