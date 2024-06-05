@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Mendez",
+  "age": 29,
+  "address": {
+    "street": "Arge Circle",
+    "city": "Cicaldov",
+    "state": "NY",
+    "zip": "23144"
+  },
+  "contact": {
+    "phone": "(520) 979-8667",
+    "servicePhone": "800885881"
+  },
+  "birthday": "1962-10-19T10:28:49.609Z",
+  "ip": "143.85.49.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu pe ehidafo vuzelubo ok nepi consuneg jihep mob hi ralbaw sos anemo nidok keebe. Udu pig coh vozezufa potzed hafvol lus tetvoj litogzis pis uflit jenkidis cad la. Lo zavigim nir pezo cafwumad arokikusu po aku jezoimu purcujmi on kir sizsov atoki be ippetlut olasompis. Dom uwnonwe faril guc ricsik ipejooj lacacwib du gipkiis bidov lufi vitu cumuih. Picluw ula maeldi wo mivcobu cihba enluw tis fezih rupo piidzo sepbi fakgo curcer watcorag. Tonsafjeg mot rormevta jos beuce va dakirmim je ozo maguroehe izehabvu jot cive.",
+    "bio": "Ugaazediv fe icvec giw ezufoaj ecakifu ba nu ki ehiwo omo lalijtab. Zoh bof hu jof del dopnotob guot feede muj jojijpa cowe deinado kol si jas le geditet. Mekwogog vew cubjihbaz ga zi wivarug po numahmij izu sozemco vesdoov fir dune pabemcal monfar zizedjo. Eba ehziwo gi raha ga ol gapoda hok bajsaz nafwes fowvighap kipep fukobwe benaiw mup. Fuvibtu fav lu peefo hu ca comse tuvjun tidolvum nekupted jiucus kuro to hob hiovim oveme tu hok. Fucenu ugjah bes leh jubbage kashi facgak renletfu agel bokhugfog wuc wep wit regeiri wuji hepi. Nobo maasi osu ozuwu duve ubimikfe zuknor lavus jasfeik mijji nokegig pokag oruufafe mideje pugbajar berij wu."
+  },
+  "apiKey": "2ba3997e79eef764af8df69c1e1654d5de203da0436606a50b42486720810562",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
