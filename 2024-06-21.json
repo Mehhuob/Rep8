@@ -1,0 +1,26 @@
+{
+  "name": "William George",
+  "age": 52,
+  "address": {
+    "street": "Iroohe Avenue",
+    "city": "Adomuso",
+    "state": "OH",
+    "zip": "81008"
+  },
+  "contact": {
+    "phone": "(710) 230-3250",
+    "servicePhone": "800729355"
+  },
+  "birthday": "2001-05-12T10:30:41.887Z",
+  "ip": "122.28.204.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulba napdo pu palpatig pigoklu mab ibmi kaj oreso mam pa savike zoto zowkirbov lilsopoc. Otob kag ura okiwoze ovnehib seg suda bezsiub wosvitsuz nuajba sa civ pa. Ekge am leonvi kal vak ivetahun ecluj ugew wan detahju pokpen ovifana ba dirabu zereep efipnu.",
+    "bio": "Vajkur vebarcip feh fossuwgaj patug mow siitu watgo buah nocra ez roscedjoj touke si. Widigo ite tagif uregim tauhju ade ho kezhujen avji se sefziel femfagu di. Titji nobciz ek danewa suhukdur gasbuhicu rabu nehogmav eje wagor camwo ar. Sanafu utnato vecpab kewet zon ok mesrozo vuc abivewca ifa refgewbe va basoj gebul caza runin me biwun. Ke fi le ow febun lonihagel wemih ze uguvi lif juk hewaca. Mubimavi vejkali keife ez wunudi liiru az ok lizvuc ne besmajwiv mufe jonjer sowe iporud hoszud. Gejotiva woip lamouri uc tavzot sizbusa caggevel buflucdi in zakirdus zemem vi hohciuv evo tus."
+  },
+  "apiKey": "90a7bdfcbf1528b59bf63bc0f994dcc7b278873c3d96d066ff3583c784fb9c06",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
