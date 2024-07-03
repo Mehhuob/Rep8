@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Stewart",
+  "age": 59,
+  "address": {
+    "street": "Rezteb Parkway",
+    "city": "Etepuhter",
+    "state": "WV",
+    "zip": "11697"
+  },
+  "contact": {
+    "phone": "(747) 407-4917",
+    "servicePhone": "800463533"
+  },
+  "birthday": "1997-07-08T07:13:34.811Z",
+  "ip": "70.16.11.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Wahco pi tenan je walkiken nuk top ne av huz ziwvulew ma nudji nehci. Bi beloga gellukma behe ohuzunwe unbeoc hoklura nulolra sezowa uvgig za viterru laputno peuhavo. Egousu fulo ombe cuera awpov avuberel nan pozido zoceha honlu ger kaj vet zacokmo tojohjel seflu vil.",
+    "bio": "Palennen iwvator we jeneku wibetbi bomudi gega ujego tiltisjap ritid mezfahulu uzovedpof. Tim omub tevfal de ose kueh la voozpo di ivohav bifagor fete rasneceb ci. Dibbuz ipareib ipofaki jubtag ka lafazub meozo cipno uw ibe dudvegez espug jor zevoc socir kip athokna."
+  },
+  "apiKey": "f22dad59f8b3a2f983cb09b69feb14e92dd9fd38d51799a373210681bfeb8ec2",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
