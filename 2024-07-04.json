@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Russell",
+  "age": 29,
+  "address": {
+    "street": "Nihta River",
+    "city": "Vinluti",
+    "state": "NJ",
+    "zip": "18717"
+  },
+  "contact": {
+    "phone": "(501) 537-7504",
+    "servicePhone": "800339224"
+  },
+  "birthday": "1984-01-28T08:59:11.525Z",
+  "ip": "34.6.48.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu asutifuk sa fujam tipasaw to ru dasfiwu hiha nojib ola gip nuzomabe baheslej. Cufjadvu vijzoj sotlol safruvkol pi figor pono mo bu miltud hi jibik. Certoji pefa ku mel pa jowo kipudivi nagtov vawvaf go epoasuzo batigjo pibtegan jij. Ces evijeg babahisa ihhilco sip igo hukhoh orru ru de bicki faseb siulcad rosohama userub mi uziwej kukef.",
+    "bio": "Gonhowup ofzidin zu nijbiwjen utsuvec ce nedlijo tu jehji behlolo hafzavola ti ketoh wahuw. Dimvarelo pa vu homula caj no sencemjes faz abumova leigi gopug woehnuc olupehvaj biwnezize. Inebo zov kufet zaldit ijuuhi rocjecve iga sutlelo da ez evwinuv gepetrel."
+  },
+  "apiKey": "7b31cf23e16229b74671e7bbc7ff5687a1cf13e01cb5ca96097a5adaa1704cb4",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
