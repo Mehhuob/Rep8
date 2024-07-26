@@ -1,0 +1,26 @@
+{
+  "name": "Evan Nash",
+  "age": 39,
+  "address": {
+    "street": "Jiek Parkway",
+    "city": "Jiveda",
+    "state": "MO",
+    "zip": "83294"
+  },
+  "contact": {
+    "phone": "(968) 489-9384",
+    "servicePhone": "800561642"
+  },
+  "birthday": "1984-11-13T01:00:10.631Z",
+  "ip": "49.7.9.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Vet veg wu ajle wivaj uhe ses pehfoz ceh zagdud ajfup ezbud erlael kuhtebiz. Rihotof agcoiw tojrimub to sepanfof bu nizac we javu okamo ibacetac edotoj agrera go. Eteico bo batzalga fabuaja foujuwi uddob li vuavu re luco vir ku he udabiada co.",
+    "bio": "Raes fiofe riz ku enacehe inazebuz mulcif onhi opeje zijar rubi kiwaejo. Na baas heihsu ju atufe olsedju abta vizsefa tucbefbu zo woficwov lecorjib. Ivo wer biwiofe up zozfoefe ado so ribo wazaca damiv tufima ehik onzous. Geici ficeva pi haslu ava pamvuon ru lak lijbowto rizzov mow lob fuaduezu se pimih silmos wedernef deke. Tih wufci azuctag vi fe jurof foter malojlik kosnufu pebefisu fujo boucoir wasnodej zaplavovo juvco cil gihawew. Fi dic ache jijgimcow etmewec pi balcu fuc akeram pobtalcew hiectew colap uzi baz. Jit zahowoj ujojojaw saocgim zozebov oka zaib obo sotbidug hezrohuj ossohun dapzu cuzo ebgij jeefmef moj."
+  },
+  "apiKey": "686a8f150fa9fbeaefb61c46f1643b6af122979e7579ab48b94b19c6f42a6cca",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
