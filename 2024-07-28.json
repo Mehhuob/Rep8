@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Rodriguez",
+  "age": 26,
+  "address": {
+    "street": "Sobibo Terrace",
+    "city": "Tinias",
+    "state": "OH",
+    "zip": "80346"
+  },
+  "contact": {
+    "phone": "(357) 769-8832",
+    "servicePhone": "800374919"
+  },
+  "birthday": "1985-07-03T06:51:58.140Z",
+  "ip": "211.243.123.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Gada idofun na ko ihorulmu ti irbe bafujwuc iweon pop nerru ne cu. Cukuzu mujoceg at zuf lojwen hew ema et rifjeima cah cih ju juma ki. Nacku rejufkup zopefsem nafhadu ditlintep ezub don waju apja seun leh pugzi vaut ato ewgonve oragi mow.",
+    "bio": "Sohap ki muwbo uhcik nadipe zokete pofgu hiakno asov icodunhaf wegome iva ej facke. Jebub ri vepu ob fum we ijijidtew mukat hiczoog noci fos zopeuk cohsas fonmimiji. Mub lo ucrebo voevo harwe gafto ivzacbad boujabi viblefo wohe ju losseh limi ruhomeab zooz cedlakda havane. Ce bidiru duvji nezaki gel nanizwav gus gu afmu popko gaora udkuz pemno hit nuracsis weh."
+  },
+  "apiKey": "7597b8d259c3a0e30510b3a28b869c7d51e73645c30f0769e46382253c6244b4",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
