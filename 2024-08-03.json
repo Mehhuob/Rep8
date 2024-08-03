@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Jenkins",
+  "age": 52,
+  "address": {
+    "street": "Lownub Boulevard",
+    "city": "Lijeus",
+    "state": "MO",
+    "zip": "50663"
+  },
+  "contact": {
+    "phone": "(436) 222-3828",
+    "servicePhone": "800261336"
+  },
+  "birthday": "1997-08-03T10:11:59.624Z",
+  "ip": "195.30.181.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu subut ficor rufsij venaz rodsuc watoc bow foznevvi diz lefilgu rohiusi kam une. Job cuhaveb zugezo ekumi dazuzu molicmel pohav cerovufow vuucde tizna ec etbero ranbosu paziv no abmivci. Jarogi ginza limvorohi dakmu zobdir ni bu sit ec fopokap urgoti cihet juwugfo iduhol uggees ca cejje.",
+    "bio": "Viv zicon mocadu uzlif popaufe kihaw bus utha hol konin corahgo vuwtome nitopodab ojo. Okjif zeibpu kitve onzi dumuvmid evuvicbe bezba tul neiw keeno po vizjaciz walwiaza apogah ekuzunvo uwbijka fe. Cuvuw duzfe ge nid ticiko vumfibpo dugege nozmo jollu sele coficunin govof nozfoel higibane bafmuh ika. Rajofita ok atiub agrevdis etle gagalwo oj rirupu miteh no gatuf uwi pokaktu nozneb ocuati cuuska hiisheh medco. Lit mezput ko hetkel pirko fug zel tezo juswohco raecizo ja samzum oci ci mujaf weji buvulupe am. Woj les arisomit adpebfoz ge jekpebub jacu viasufo dogeko ci cus tadfotwin uti zitu al vu sulugil."
+  },
+  "apiKey": "70832a703bf1c3b9adc7d1bcff3e6b3ff8b5b553dd8c74353c427a01d51c4937",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
