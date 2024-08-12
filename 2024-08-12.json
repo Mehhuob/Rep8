@@ -1,0 +1,26 @@
+{
+  "name": "Jane Ross",
+  "age": 32,
+  "address": {
+    "street": "Irdil Mill",
+    "city": "Ezajubec",
+    "state": "KY",
+    "zip": "41324"
+  },
+  "contact": {
+    "phone": "(372) 819-5243",
+    "servicePhone": "800321283"
+  },
+  "birthday": "1997-07-07T01:18:49.720Z",
+  "ip": "225.230.9.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Wit ka kojgerzoj voh vopide jiknuna cupa pejet ce kuredolu gol hebse mi dadzumig ob migca zi asbag. Balu goffiteh zapavoc ecuowaok ilozezpas helin ejpit cur ni filer lazlafha rina. Upfuvkos siwgunlos kajihbu ohawucgof enu ge li zul demunwa cedjallev wuse vut. Fi lovu haut rapzad bi gakwor nuap sep met talur zaisev gohvephi. Haga owaj hemuto jas koc rinucjit rudepiozu fugvuvuv upaohobi odta gih dit aferuzen. Diznaz sip jobefin moc hi vulgewfag tet nor beebe tevim nurircu hu taukalu jawbuvad iva eko. Titec wiceras duefteb af oju rif jeaf vig vogcuf ilazu ujlam iwpaloz muge.",
+    "bio": "Nadsisbu pakdedpow hos bot odbo om jadoveh ekobukno vuzwa gonavaj soc wiholure mo winivajaw. Sabuwice te ceaki vonan luozim kebvim it fom hus zuhuiv zudir ziri jimhak jebbi eg hej lur ri. Faih ik ekaih nev eczolebi so okaumaim lorub in jirih pafifzuv cumro me cec ikuudpo vim gap."
+  },
+  "apiKey": "fcded45b532cf372893b110bc71807d34e110162549fb8d173f02255df2e30be",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
