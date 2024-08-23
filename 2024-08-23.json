@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Nelson",
+  "age": 23,
+  "address": {
+    "street": "Haom Glen",
+    "city": "Rodfisus",
+    "state": "PA",
+    "zip": "57285"
+  },
+  "contact": {
+    "phone": "(932) 551-3057",
+    "servicePhone": "800813148"
+  },
+  "birthday": "1972-09-13T01:41:12.143Z",
+  "ip": "231.68.62.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Supi ergal labit ijoke ocekowop ertefnef jovarwa rir zaezakef gujuh eb zu fivihze zupho icomtu. Nufoot iwnalar hi zige ruho gisu ire denpuso wojdovhi kiobocih ewahehu fomuwvo. Acided olifni hemcuma zissu gava du jeilo ceujoiz ludeh metzi gob puzcok kegnegid.",
+    "bio": "Wineri kehwu be bucatra kawba majtahzu afako zisepata mujsofuz dujsib surmage idunu. Gecoto nu ov og kedeb vuh ulgikda ofi kazcit cit voh winliak cepuweh. Zuca uhibaini vasanror tu gekpe jo baho rij kah udec bus rodop uha ce gawerson jit ivuweiwe. Wefna kallec jah hivajij zi rev opi moj seg jik rihot no. Zacmo sicbolgum boffac fajmu ewjem afzaelo ersi vi ezi fu vomud obpiv nalkuhet zar hi bi. We benobegap zelugje wa li fanvehviw sabtaepa sasa wuawru locik jeilvan zuziwo cuz edwit mufdazaru discasodu igme. Iho gu iwi fium wajam delvo nahavlol lac bitkuc kubhuowu okdon pacop inusezzez hohaka vuduk lamzo."
+  },
+  "apiKey": "815a0234271a2cc0d81008d56cc1cc58f83fdb9c77f4718bf1827b89278a0ea6",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
