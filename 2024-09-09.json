@@ -1,0 +1,26 @@
+{
+  "name": "Martin Hoffman",
+  "age": 28,
+  "address": {
+    "street": "Gibnub Grove",
+    "city": "Igsali",
+    "state": "ND",
+    "zip": "85639"
+  },
+  "contact": {
+    "phone": "(636) 871-1561",
+    "servicePhone": "800173374"
+  },
+  "birthday": "1976-09-02T07:06:35.357Z",
+  "ip": "244.31.232.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu iniado nac tih ojnieh ha lopo ha tavupi ed dado rodo nut. Bocanaram olofolu jufubne morwofhap gubuczit mipamjul sunes vu voih ekasizvum nuh tuomwih kej roves wadzi buuswit igiwaz. Acajicemi figdoco vaseice ut waz bim cu ibuvig kiddojo nohba kaj vegfi econa.",
+    "bio": "Eraki lopkog mohihe egadi duwawoc zoveg jivav ekukamud tu vep bulogok venudo ihefovi vikle odiut jiz pedrumu pofo. Zumacafuh lishesdat apoabu urhonhuv lagtojud gakta awcaf jondohi reh alhe fo wemcusat hirbu ugihorjoh napa nem soz ube. On fo wo sih zuhad no pazuhe cacu aveihe idojoppa wato ubupoote. Aseulazap afinis laorlip ganibsid ad ez kiwah huj fucvuv am bim ihaco seec. Puwtom jom tis janjes un pen fomaduw dih horeti kah viliwuc rifboveni vitif kedoza heb. Ocko ruz susaj iru te caj jimheg hofa zitasba isocake wotcarni rupilvos febidam ovuvara vo co seca. Mipek iho oladatwi obavadi ric otopob rinzomtos wapwod puf biin po moma camvamo wu."
+  },
+  "apiKey": "f51d9ed8802105b626c2a0d03fc1b4b28a2fbcc9bcb01985c08dc472aa1cfffe",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
