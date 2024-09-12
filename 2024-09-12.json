@@ -1,0 +1,26 @@
+{
+  "name": "Donald Kim",
+  "age": 35,
+  "address": {
+    "street": "Nevani Boulevard",
+    "city": "Hisfuke",
+    "state": "IL",
+    "zip": "87974"
+  },
+  "contact": {
+    "phone": "(906) 607-9067",
+    "servicePhone": "800621653"
+  },
+  "birthday": "2003-11-28T06:53:39.210Z",
+  "ip": "181.48.6.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Wip wirzohsad lan vop zapipdev ew nub utaku umki biac omujap mapme ref vit. Edo ba zef la ugaife gil ofo ivoga sifki eg gu bi if gowle. Ehoecitaj kinjo zib babobuvol vo ikinu amvubo zabjejzu ongize ruc ewuzi otzazga kas aj avero zir. Fohwipra tinhuw gofinosa omo kef nojli cubebli na em za birjaz owuge cozazru rutimlo. Lephusad regur viflad pavod habaguvah jaol be haw vuivlih bon puf zumi lolbiw. Gujmeuwi bohzisek kijpaf mu vijuji baf molas sija noj co vef guvgukozu rolew pedim ravpi ehome asmofko buwi.",
+    "bio": "Tadzom adudav cikaure woamefop wodve kaz ujiv uv hacwis armuge mitin wufocef nebotmem. Pa ijujucwig pedhupi jowitare seduk daehi gocofok ip ukoun deblul tujuwne ifusiz ruzu. Owudoop esuzuacu anril beurukid ojacusu erikun ib nekijgac wuz tiwdo iw fac."
+  },
+  "apiKey": "5ee0c6e4b0efdd63c0379788deb64679ac0015ff95dd715c25e7c7239caa405c",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
