@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Little",
+  "age": 57,
+  "address": {
+    "street": "Kiipu Loop",
+    "city": "Duhekimu",
+    "state": "DC",
+    "zip": "06962"
+  },
+  "contact": {
+    "phone": "(817) 444-2786",
+    "servicePhone": "800481152"
+  },
+  "birthday": "1964-08-05T04:47:05.810Z",
+  "ip": "20.110.28.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Rasu ahbonom vop cuz cotali ujezi zapte nacigu filef lo uwzap otaza pid deh uwu. Taszuz kap pu kinegba fanaroaf ipe ba zin zuzoz ede we catazzo vebhus cirditu lunluzu ratdabwi. Kubnetpor jozu eklos fouk jo rekaheri aztib ebwab etberaf pak fefouru dusobec julce taj kipvaz watel kulcojwo la.",
+    "bio": "Ah zodopudah gemeza eno ilibusa de joce heho farivhu zeme fedlal nuwri lus otejune ruzih les. Ja er geic jangekone hanada ogudunup uh jadfet namizguw lup avedi setultaz fogla. Hezpeb doku tanno epuzcut halasa runuv libec rap dojadi nivloluc newkeci vospul vobfodi."
+  },
+  "apiKey": "0240ffb7d77da9f3fcb7f9cea3b4175ff1f8033a1643b1070b5e6e1308b04695",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
