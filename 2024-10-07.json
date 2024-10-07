@@ -1,0 +1,26 @@
+{
+  "name": "Bess Medina",
+  "age": 38,
+  "address": {
+    "street": "Zewog View",
+    "city": "Rebise",
+    "state": "MS",
+    "zip": "85985"
+  },
+  "contact": {
+    "phone": "(628) 967-9133",
+    "servicePhone": "800189742"
+  },
+  "birthday": "1978-06-13T07:26:41.060Z",
+  "ip": "208.195.216.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Rebgi ce udcep womzug rajlok vewamwod kutiva susi ir ocu hak vuziz da. Zocnufu hudab vosvebpul doziv fef losasel lu sinbizwaj mavsub cepcaoce be suhe ri wacsisuri faw. Rospe varebuc zer fa lual nehzekalo uk jaoho fibupo uz nolnuz cu bahamon wul uwnik rejwep jitute rigcunar.",
+    "bio": "Letigap nekipva ruli holpu fome sa di nerepe teb vucamiiru zuwvelu kesaj baw gecmizde zostesdi. Pi nevro co siseih esle kab akge ik tuk hiw foce beg ham hubidjo. Kugwu ezharga funago mudzupiz puod ek suba genir jilofog wabfevjep kiljekpas af tis lievirec."
+  },
+  "apiKey": "5db8db166d3cbadce9a0286b7ce86d3887c4ca711a497492a8b1f02f80dc87a3",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
