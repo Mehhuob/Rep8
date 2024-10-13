@@ -1,0 +1,26 @@
+{
+  "name": "Inez Taylor",
+  "age": 41,
+  "address": {
+    "street": "Tewoce Drive",
+    "city": "Pumvalkut",
+    "state": "IL",
+    "zip": "46116"
+  },
+  "contact": {
+    "phone": "(701) 662-6686",
+    "servicePhone": "800637496"
+  },
+  "birthday": "2002-08-20T09:25:46.327Z",
+  "ip": "218.129.218.242",
+  "foo": "bar",
+  "profile": {
+    "about": "At hu po kacen semfueno boadram hazibkip pasavna korzehim vommuz ju femupuk eze fe fihjo safo muihemug. Enili muoz fa me vukgeswe benojgid jop laz ziuso zipwulvin wi rej muvut vevuhitid womog galic ecajila. Mojweg nahkijez fe en doiruete zice ditkut safitedez meteg zi ujto etakaftut zume hij.",
+    "bio": "Ji kuveihi lalego ase giwafi eti ebgorti vupja asufanpo na ipa osa fekuv rosfi lodoac ge puivowo. Vowber va eru ban fewra ed ragfonpug nuragin ok rukotkih jiuna tafrevsi looh wuhbofo rin ijo sout. Zour kom titteopu catijnol ado webgi telo luszoeg anesiza fadgew cuk ijmenvol nujgefa saftijib dodu."
+  },
+  "apiKey": "0e82291668014fc981d2f3ab02672be7f25608cdd2d75db4013696e0f1d6939f",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
