@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Valdez",
+  "age": 52,
+  "address": {
+    "street": "Dobi Boulevard",
+    "city": "Herujje",
+    "state": "ID",
+    "zip": "34148"
+  },
+  "contact": {
+    "phone": "(816) 209-3185",
+    "servicePhone": "800656369"
+  },
+  "birthday": "1970-10-22T06:39:26.118Z",
+  "ip": "190.98.105.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuoc cakno se be up kalis ovu bijem pip kav givruwimu cuzuc. Telwacoce cakila lucuan jokug mewo pojucful rewuove mud dojbano mat hef fi hucosku rudfifur fakde je. Sotwav zu tukvuji bur wazu vigda kilfe udjasza cip gazu behje upgeh zu pifro.",
+    "bio": "Ev azigog gobvik lu nih datepobiw jofsagiw obiejbi ma rosfuki ket pomma kizona vesuwcur pe juwim vihfa. Ba za zawuop riag epcij ef odocofcab laphu det oppef verjafhep bo wo docejir. Cifohu eh hapiw uj gucsuzpa werih zuez hezo nibapuw taphumwi cihanap soba. Ip sa nepinet hezgidur faf nah iwa tiz igri vatumbiz fomdegmef se ulete azute viezu ol pag cujajzev."
+  },
+  "apiKey": "99de8b78f9cd39c1657e939fdc8047559e2cd422d2c93388e29edf4f79db35ce",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
