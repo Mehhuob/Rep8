@@ -1,0 +1,26 @@
+{
+  "name": "Essie Hanson",
+  "age": 21,
+  "address": {
+    "street": "Razu Glen",
+    "city": "Kuhjeswid",
+    "state": "NM",
+    "zip": "21430"
+  },
+  "contact": {
+    "phone": "(682) 352-6779",
+    "servicePhone": "800574786"
+  },
+  "birthday": "1987-01-13T12:37:10.424Z",
+  "ip": "214.49.99.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Alocmac cer vo zowomoma ezamadmos covsuoho do cotu afhib efo jo pujev di. Mufirseg oki gul waj le das ledget fob ohakajlu ahdugim vuna hawlogba pu kuran. Kocozo ib pucavon ujot hezmer obenegic kiloguada ijna omizon huvpok kotve icpir cawafuahi. Gisihdu lugapahi ehu kusej teape giit asoug wivmi tihzenih ku gin lifisit poosu buc igogilhic.",
+    "bio": "Jukosli vur nuszadka sar fu honruzna vocfiz ari mu utses akrelad roefa vip de. Efi zosewse fibdu garaow ne tegceb tijriv en coitgu fuweh ato gim. Sonpowa eweseip avu ziona dozzun kotna su kit lelifda cakov ribeba biwilo vikanbe. Jun jowodse legzej ogiroma orbaha ki penmakhe fef wusjisa cennob kailaho sod ajsuhduz hevabmer nu wa. Tilirlu olo fo alivi tur dum beokohoc ohebik wecfoif duc ici uwociwmo jinaor ci. Bev tukjieb lidihog mi dihehce eposalu wuni atetip ucdife rip coud tonez jo."
+  },
+  "apiKey": "f2a7b7e16c76179c18ce336fc3f70ca0525740573c836558b1deec6c292eaf96",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
