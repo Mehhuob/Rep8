@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Salazar",
+  "age": 25,
+  "address": {
+    "street": "Mezobe Parkway",
+    "city": "Pivnimiw",
+    "state": "RI",
+    "zip": "51780"
+  },
+  "contact": {
+    "phone": "(542) 817-2687",
+    "servicePhone": "800935685"
+  },
+  "birthday": "1996-01-18T12:46:46.832Z",
+  "ip": "99.128.116.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Kivzon tabarad kijmeiw kawogzun muslu zegupa uzni lider zew faiw wobwav zotwuc. Agakeope sucmeiti fufle lu kim but vibsaz juleput dukrawji faktul veconda kifgu sid. Zutfac ir ji mazuop inubov focim ot en rob fijupezu imu nevakkaf. Cerarla te hi fu ri fi jofi amitezcet nedo zublupfa efho afakuvkut.",
+    "bio": "Rizom janorelam apdiusu menmiufa hefodfus gozoka ubugo ha sajunjag hezlik ku ufapa di udpac rofki zef. Defwensu jum ve ki muk pinasoj zabe ziksoebe tovusa iweco vijpiak res gufa zunila. Lanob fah ikjizup sifarte onuatku pejzod za gaatefu tipji let orgiv budcomu nofdit cuedhop. Zamke ci jep esebu sutvovcun fopeseku ebairufen rova caotror ula kilzuhno um kahicovi be musoliki mal dokem. Otewan avo gotuf wes capjevaz se im boigzeb favza nod utfujo etfu wugagka. Jurto petiane zatgot hiv wegaz rargor gansalzow pon biotu zi tefojhum boiz funugufi moer gegnifat heka."
+  },
+  "apiKey": "fcf5515111ff96749147c092f8e597253f718d6ee0f874bd470ff935906fb35c",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
