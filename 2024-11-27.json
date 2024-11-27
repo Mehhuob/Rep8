@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Drake",
+  "age": 18,
+  "address": {
+    "street": "Tawrep Boulevard",
+    "city": "Dibowza",
+    "state": "IN",
+    "zip": "46406"
+  },
+  "contact": {
+    "phone": "(384) 694-5927",
+    "servicePhone": "800138318"
+  },
+  "birthday": "2002-02-08T07:33:09.014Z",
+  "ip": "231.98.240.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Pacuc ze hu hujvo zirse guvuhkon me vogocli ictipup lo om le ohoanudo hebo pa. Jib it zulfafez mupfez hoztir cesafo gazhas mispevan kihe li jicgeuh utiko. Inukuzel caavdig reejli lehjonsa meza egeju ap risco odo wali siif mearup. Bion igatu liw delopeme pejpiv timfibe repkese emahil cuka mid ecfe ju cepi.",
+    "bio": "Otjam mafpiljo ziwacbec vosgavkiw citde rokirmu ewotawan po ur siskisiv miisa fopapi firneale bapur keddo laarijon vav goh. Zaviuh fe daz piz za wef wuramif rouzo hiothen go bandub fe laipi huwatiw haadimok. Docistit kopepozu fep ifumiak jiz loktigzet muiwo ofa nuraco tupwabpav aknedwe sam vovmula fe welhaggin unerjuw zon ritsa. Voob kehti wigheake gogetlej uhiuru bopola bazgoriz cehfozuc noribor eb hibbap rav vovlan mecapot iwizofuj."
+  },
+  "apiKey": "a6e7868f8a3615e335ce11f26c30e9b63a2fb7606a6816432d9c0908b8ab543f",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
