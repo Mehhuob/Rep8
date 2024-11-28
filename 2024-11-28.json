@@ -1,0 +1,26 @@
+{
+  "name": "Hester Mann",
+  "age": 21,
+  "address": {
+    "street": "Gihza Mill",
+    "city": "Vonajci",
+    "state": "WI",
+    "zip": "26837"
+  },
+  "contact": {
+    "phone": "(748) 385-6091",
+    "servicePhone": "800153664"
+  },
+  "birthday": "1985-05-23T07:55:24.112Z",
+  "ip": "222.120.132.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Kejkife pohzefbum no ulo tuwil lafaga rutoha uhi tuujiof zocmow fizrol ekfevje omuzicviz ep. Iwo atufeiwu tecuthi koug gajonmu hab il wej doztibe jiuliudu bo ku refhoz dadifeas bavedafuh iciape topna. Fespomuf digwugsam tafis rupuucu lehofize ijuoke zi irde pakvojvow bew hisot riwwo zun baz.",
+    "bio": "Bozvarvub fawhubo nojrovmu ka ici si litizgus asi foj of razmasotu ofpep ciij. Revukaf ira lutfulow zi afuozin dejur vu ni sizci om aw hozfam war mij. Tunukwot ke vupahu bivki ele uci mir juwijel kofjoza su siwazejo ve omuzo ul ibtir datnoaz netgenoc ragucaar. Povpejece gihoju sissevmel velon adhuke pisjin binlazbat mopaej iglazbu ivu re ammat sanerin ifozawhez tobrarogo vaamufel."
+  },
+  "apiKey": "b6cf63587c349ee80ebbcf57906c5f3ecce7bbb31ab3c6687b3364266f25a1ce",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
