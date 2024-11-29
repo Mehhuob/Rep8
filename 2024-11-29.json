@@ -1,0 +1,26 @@
+{
+  "name": "Amy Ray",
+  "age": 30,
+  "address": {
+    "street": "Pewez Boulevard",
+    "city": "Lidunum",
+    "state": "FL",
+    "zip": "54053"
+  },
+  "contact": {
+    "phone": "(754) 590-4843",
+    "servicePhone": "800565993"
+  },
+  "birthday": "1980-04-28T01:07:01.634Z",
+  "ip": "172.145.212.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Ercean ag litda gobo huc teksupte domfeteg vagom fe te uz ne lid. Avfo kecpa og wu sejpoz cubnoc ife suchiet inoci popi vutab wic cospobob kimaw wewhu. Icjic irupo de ribwo luk pevvumor suhuw ju folwauja top er poejliw.",
+    "bio": "Hajema acizek ku fu gu uf dac ehesasu lekonrap bobnalod wikkies it sucofub ridube dijgi kofa le. Figsov ortaela fenzi kuug solwo gogu az hun ac li zofomdec viin wibo ge zuov hezdunas hoffa biralvos. Azirigdu zohub akfemir po mujinop bemzo revmersep kagwitta hid mugojies ojido wapondi huvjus. Hup ifeeceipi hinop tu ho ho gemaz peupolaf repol iwafaas kaomi tifova on maesmu ha. Ivnomgu vag lag uwu daw biowi buc panus fig tak tekzeteg jurlut zisfoeb goldu tebe toz erisabro mipob."
+  },
+  "apiKey": "7135db5794d1a0205c3d9308d26b9090760f17f10eedc8bff356e8269caba8f4",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
