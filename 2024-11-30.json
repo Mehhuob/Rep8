@@ -1,0 +1,26 @@
+{
+  "name": "Jean Wilkins",
+  "age": 64,
+  "address": {
+    "street": "Fize Pass",
+    "city": "Noafzin",
+    "state": "NH",
+    "zip": "23857"
+  },
+  "contact": {
+    "phone": "(945) 276-8750",
+    "servicePhone": "800292696"
+  },
+  "birthday": "1980-01-09T02:20:24.658Z",
+  "ip": "8.188.144.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Vawim da low tusi wuvuv paw eda za kom li fe niko viudagu. Ozoas so vol cohjopzo nimtepun rik rop an nacfop abigive fov ako vifivi ru geckehu zecola. Gedwob humidel koofeke efudbu ogidi zuzcu miw ba katjek femvatnoj wezuup viev gav kuj aj polsegu cul.",
+    "bio": "Ol ag jug kutemzo wizov nezmat cemaje ze agaca vizohto mozop tomle su ho kezcu cihako zujrikzus. Luw bunzepoc moj goweshi nab ijahi awitaek vof zonuc vezu efa kelcehev jowpo tiudi ijuji hiinrej bi. Fapi nepziv tezug hesjugna wothevmun de cepe pinzikek vuiho papeb for ze nejrauc ibi."
+  },
+  "apiKey": "ee252ebdaef4c3aa7169024396be42cb553bc7b9bf18c265eaef72be11f63e30",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
