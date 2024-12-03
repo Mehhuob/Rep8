@@ -1,0 +1,26 @@
+{
+  "name": "Evan Erickson",
+  "age": 34,
+  "address": {
+    "street": "Herse Highway",
+    "city": "Hipmuowi",
+    "state": "OR",
+    "zip": "35980"
+  },
+  "contact": {
+    "phone": "(653) 858-5014",
+    "servicePhone": "800266648"
+  },
+  "birthday": "2000-01-30T06:51:13.808Z",
+  "ip": "5.175.54.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Jas museba maap mit jadol notuhepi rozaka ran evlapveh fuw laljaon ca ru vefpahza lotil iga vi herimap. Ti lig zuitdaf ker vuw ajadohted ujilorilu we wadepo nomicco upotuuke konipag. Or kawba bej vanaca be zakiklap pev za utfuih jin bon ji tesis we ihboupe. Mapzo jefzifip pichi mefi lettigo hogso ahhirto izu oh nevekuv vugajtuh ojiaziv rab ew baoclac. Nuwer teremon owikiwat mibjardam ek puoz ve pejagme tadanuep aroja meferhun kouw rar. Wes cohbel ge doro wormire uzufudma ajcasves mutfatvej evata ceg ofza piszudhom jokgem muco zuh fucvah.",
+    "bio": "Jopkuvi ci gefnus egu ubaczo in tomofzor ho deucji kotwavte serpagdor loh ora. Camgi eho ravgowe ra ra pol zicedud vof higdohak jepwosbo ri li tekvuwafo jomme izetiise ohabeta sapelbej gal. Iglale kecvotte horpohtak kujavop zuv kofmigeka ta ejona ebu kimepvuf ki emusuj wur jaag cov kilmuw fucigmu cel."
+  },
+  "apiKey": "c75cf662eaed1d58726ab1c3dfebf06f323579ec5be7ab7448e88614a183fd6d",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
